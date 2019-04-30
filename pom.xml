@@ -17,6 +17,8 @@
     <module>strategy</module>
     <module>template</module>
     <module>adapter</module>
+      <module>decroator</module>
+    <module>observer</module>
   </modules>
 
   <name>patten</name>
